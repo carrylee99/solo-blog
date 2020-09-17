@@ -5,7 +5,7 @@
 <h4 align="center">对未来真正的慷慨，是把一切献给现在。——加缪</h4>
 <p align="center"><a title="只是向上走" target="_blank" href="https://github.com/carrylee99/solo-blog"><img src="https://img.shields.io/github/last-commit/carrylee99/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/carrylee99/solo-blog"><img src="https://img.shields.io/github/repo-size/carrylee99/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/carrylee99/solo-blog.svg"></a></p>
 
 ### 最新
